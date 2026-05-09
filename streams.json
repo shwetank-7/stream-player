@@ -19,10 +19,10 @@
     "type": "iframe",
     "url": "https://streamfree.app/embed/cricket/willow?quality=1080p&category=cricket"
   },
-  "fball": {
-    "title": "fball",
+  "s": {
+    "title": "s",
     "type": "iframe",
-    "url": "https://melissadiona.s3.us-east-1.amazonaws.com/btsport.m3u8"
+    "url": "https://streamfree.app/embed/cricket/cricketsky?quality=1080p&category=cricket"
   },
   "fox": {
     "title": "ox",
