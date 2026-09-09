@@ -9,10 +9,10 @@
     "type": "iframe",
     "url": "https://epiembeds.online/embed/tntsports3-uk"
   },
-  "news": {
-    "title": "news",
+  "tnt3": {
+    "title": "tnt3",
     "type": "iframe",
-    "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8"
+    "url": "https://epiembeds.online/embed/tntsports2-uk"
   },
   "w": {
     "title": "w",
