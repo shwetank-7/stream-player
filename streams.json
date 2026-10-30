@@ -24,9 +24,9 @@
     "type": "iframe",
     "url": "https://trend48.st/live-tv?ch=willow-usa"
   },
-  "fox": {
-    "title": "ox",
+  "s1nz": {
+    "title": "s1nz",
     "type": "iframe",
-    "url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.V1vctqXQgvf9.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvVjF2Y3RxWFFndmY5IiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20saHR0cHM6Ly94Ym94LmtpY2suY29tLGh0dHBzOi8vcGxheXN0YXRpb24ua2ljay5jb20saHR0cHM6Ly8qLmtpY2stcHJlcHJvZHVjdGlvbi5jb20saHR0cHM6Ly8qLmtpY2stZGV2ZWxvcG1lbnQuY29tIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOmZhbHNlLCJhd3M6YWRzLW9wdC1vdXQiOnRydWUsImV4cCI6MTc3NTQwNjQ3NX0.Rtdg0CrCjt8DfPaP_LEdm30PH46qb4dtV8_JuSw8RJk5z_3vLhI8tV-pFn2ubcMs6FLXcy33jLj2KvqUNN5dptzsEMuNDSuAynTW2q9meMjSavcXJau6aQyHHdUh26od"
+    "url": "https://trend48.st/live-tv?ch=skysport1-nz"
   }
 }
