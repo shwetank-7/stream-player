@@ -19,6 +19,11 @@
     "type": "iframe",
     "url": "https://trend48.st/live-tv?ch=fox-sports-501"
   },
+  "fox505": {
+    "title": "fox501",
+    "type": "iframe",
+    "url": "https://trend48.st/live-tv?ch=fox-sports-505"
+  },
   "wlw": {
     "title": "wlw",
     "type": "iframe",
