@@ -14,6 +14,11 @@
     "type": "iframe",
     "url": "https://epiembeds.online/embed/tntsports2-uk"
   },
+  "tnt4": {
+    "title": "tnt4",
+    "type": "iframe",
+    "url": "https://trend48.st/live-tv?ch=tntsports4-uk"
+  },
   "fox501": {
     "title": "fox501",
     "type": "iframe",
